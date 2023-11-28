@@ -1,0 +1,6 @@
+Quality Attribute,Definition,Characteristic 1,Characteristic 2,Characteristic 3
+Functionality,The set of features and capabilities provided by the system,Number of functions,User requirements,System requirements
+Usability,"The extent to which a product is user-friendly, easy to use, and aesthetically pleasing",User satisfaction,Learnability,Efficiency
+Reliability,The ability of a system to perform its functions under stated conditions for a specified period,Mean Time to Failure,Mean Time to Repair,Failure rate
+Performance,"The responsiveness, speed, and efficiency with which a system responds to user actions",Response time,Throughput,Resource utilization
+Supportability,"The ease with which a system can be supported, maintained, and evolved",Ease of maintenance,Ease of support,Adaptability

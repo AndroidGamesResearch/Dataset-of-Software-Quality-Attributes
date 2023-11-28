@@ -1,0 +1,15 @@
+Quality Attribute,Definition,Characteristic 1,Characteristic 2,Characteristic 3
+Compatibility,The degree to which a system can operate with other systems or software,Platform independence,Hardware independence,Operating System independence
+Correctness,The accuracy and reliability of the system in delivering the intended results,Number of defects,User requirements,System requirements
+Compliance,"Adherence to relevant standards, regulations, and customer requirements",Customer Support,User Feedback,Response Time
+Efficiency,Optimal use of resources to achieve the desired system performance,Resource usage,Memory usage,Device usage
+Functionality,The ability of the system to deliver the intended features and services,Service,Malfunction,Performance
+Flexibility,The ease with which the system can be adapted or extended to meet changing requirements,Customizability,Configurability,Extensibility
+Interoperability,The ability of the system to work seamlessly with other systems,Protocol compatibility,Data format compatibility,API compatibility
+Maintainability,"The ease with which the system can be maintained, updated, and repaired",Code readability,Modularity,Comment density
+Portability,The ability of the system to run on different platforms or environments,Audio,Graphics,Video
+Reliability,The system's ability to perform consistently and predictably under various conditions,MTTF (Mean Time to Failure),MTTR (Mean Time to Repair),Failure rate
+Security,The protection of the system and its data against unauthorized access and attacks,Encryption strength,Authentication methods,Access control
+Supportability,"The ease with which the system can be supported, serviced, and maintained",Accessibility,User Assistance,Troubleshooting support
+Testability,The ease with which the system can be tested to ensure its correctness and reliability,Test coverage,Test case count,Test automation
+Usability,The user-friendliness and ease of use of the system,User satisfaction,Learnability,Ease of Use

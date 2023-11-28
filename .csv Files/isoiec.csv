@@ -1,0 +1,8 @@
+Quality Attribute,Definition,Characteristic 1,Characteristic 2,Characteristic 3
+Compatibility,The degree to which a system can operate with other systems or products without any special effort,Standards compliance,Backward compatibility,Forward compatibility
+Performance efficiency,The performance relative to the amount of resources used under stated conditions,Performance relative to resources used,Under stated conditions,Throughput
+Usability,"The extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency, and satisfaction",Effectiveness,Efficiency,Satisfaction
+Reliability,The ability of a system or component to perform its required functions under stated conditions for a specified period of time,Performance of functions,Component functions,Specified period of time
+Security,The degree to which a product or system protects information and data so that unauthorized access or modifications can be prevented,Information protection,Data protection,Prevention of unauthorized access
+Maintainability,"The degree of effectiveness and efficiency with which a product or system can be modified to correct defects, meet new requirements, and improve performance",Effectiveness and efficiency of modification,Efficiency of modification,Improvement performance
+Portability,The ability of a system or software product to be transferred from one environment to another,Transferability,Platform independence,Hardware independence

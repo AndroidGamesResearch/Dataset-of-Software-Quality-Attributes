@@ -1,0 +1,12 @@
+Quality Attribute,Def Characteristic 1,Def Characteristic 2,Def Characteristic 3
+Compatibility,Standards compliance,Backward compatibility,Forward compatibility
+Efficiency,CPU usage,Memory usage,Disk usage
+Functionality,Number of functions,User requirements,System requirements
+Flexibility,Customizability,Configurability,Extensibility
+Interoperability,Protocol compatibility,Data format compatibility,API compatibility
+Maintainability,Code readability,Modularity,Comment density
+Portability,Platform independence,Hardware independence,Operating system independence
+Reliability,Mean Time to Failure,Mean Time to Repair,Failure rate
+Security,Encryption strength,Authentication methods,Access control
+Testability,Test coverage,Test case count,Test automation
+Usability,User satisfaction,Learnability,Efficiency

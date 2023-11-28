@@ -1,0 +1,6 @@
+Quality Attribute,Definition,Characteristic 1,Characteristic 2,Characteristic 3
+Correctness,The accuracy and reliability of the system in delivering the intended results,Number of defects,User requirements,System requirements
+Reliability,The ability of the system to perform consistently and predictably under various conditions,Mean Time to Failure,Mean Time to Repair,Failure rate
+Efficiency,The optimal use of resources to achieve the desired system performance,Resource usage,Memory usage,Disk usage
+Integrity,The protection of the system and its data against unauthorized access and attacks,Encryption strength,Authentication methods,Access control
+Usability,"The extent to which a system is user-friendly, easy to learn, and efficient in performing tasks",User satisfaction,Learnability,Ease of Use

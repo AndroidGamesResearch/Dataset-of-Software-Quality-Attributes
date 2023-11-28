@@ -1,0 +1,6 @@
+Quality Attribute,Definition,Characteristic 1,Characteristic 2,Characteristic 3
+Reliability,The system's ability to perform consistently and predictably under various conditions,Mean Time to Failure,Mean Time to Repair,Failure rate
+Performance,The system's responsiveness and efficiency in executing tasks,Response time,Throughput,Resource utilization
+Usability,The user-friendliness and ease of use of the system,User satisfaction,Learnability,Efficiency
+Operability,The ease with which the system can be operated and controlled,Control features,Ease of operation,Flexibility
+Reusability,The extent to which system components can be reused in different applications,Modularity,Adaptability,Component compatibility
